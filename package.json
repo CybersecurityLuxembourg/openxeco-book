@@ -6,7 +6,7 @@
   "devDependencies": {
     "coffee-script": "^1.12.7",
     "gitbook-plugin-atoc": "^1.0.3",
-    "honkit": "^3.7.3"
+    "honkit": "^4.0.7"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
